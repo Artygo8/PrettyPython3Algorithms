@@ -1,2 +1,11 @@
-# PrettyPython3Algorithms
-Beautiful training algorithms in Python3.
+# Pretty Python3 Algorithms
+
+Algorithms in Python3. PEP8 compliant and as simple as possible.
+
+## Sorting
+
+[x] bubbleSort.py
+[x] insertionSort.py
+[x] mergeSort.py
+[x] shellSort.py
+
