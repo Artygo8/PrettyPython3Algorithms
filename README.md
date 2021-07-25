@@ -11,3 +11,8 @@ Algorithms in Python3. PEP8 compliant and as simple as possible.
  - [x] shellSort.py
 
 ## Searching
+
+ - [x] binarySearch.py
+ - [x] depthFirstSerach.py
+ - [x] interpolationSearch.py
+ - [x] linearSearch.py
