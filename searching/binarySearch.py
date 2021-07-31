@@ -11,9 +11,9 @@ def binarySearch(lst, elem):
 
         if lst[mid] == elem:
             return True
-        elif elem < lst[mid]:
+        if elem < lst[mid]:
             last = mid - 1
-        else:
+        if elem > lst[mid]:
             first = mid + 1
 
     return False
@@ -21,5 +21,5 @@ def binarySearch(lst, elem):
 
 if __name__ == '__main__':
     lst = [2, 1, 7, 0, 6, 5, 8, 4, 3, 9]
-    lst.sort()  # mandatory for biary search
+    lst.sort()  # mandatory for binary search
     print(binarySearch(lst, 2))
