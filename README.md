@@ -1,6 +1,6 @@
 # Pretty Python3 Algorithms
 
-Algorithms in Python3. PEP8 compliant and as simple as possible.
+My own interpretations of some famous algorithms in Python3. PEP8 compliant and as simple as possible.
 
 ## Sorting
 
