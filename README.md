@@ -13,6 +13,7 @@ My own interpretations of some famous algorithms in Python3. PEP8 compliant and 
 ## Searching
 
  - [x] binarySearch.py
- - [x] depthFirstSerach.py
+ - [x] breadthFirstSearch.py
+ - [x] depthFirstSearch.py
  - [x] interpolationSearch.py
  - [x] linearSearch.py
